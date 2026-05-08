@@ -50,17 +50,6 @@ Sumber dataset:
 - Matplotlib
 - Google Colab
 
-## AI Engineer
-- Scikit-learn
-- Random Forest
-- SVM
-- XGBoost
-
-## Full Stack & Deployment
-- Streamlit
-- Flask
-- GitHub
-
 ---
 
 # 📊 Tahapan Data Science
