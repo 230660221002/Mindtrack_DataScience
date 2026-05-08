@@ -42,8 +42,6 @@ Sumber dataset:
 ---
 
 # ⚙️ Teknologi yang Digunakan
-
-## Data Science
 - Python
 - Pandas
 - NumPy
