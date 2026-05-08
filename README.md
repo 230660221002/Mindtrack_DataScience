@@ -1,4 +1,4 @@
-# Mindtrack_DataScience# 🧠 MindTrack
+# Mindtrack_DataScience#
 ## Aplikasi Deteksi Dini Tingkat Stres Mahasiswa Berdasarkan Pola Aktivitas Digital Menggunakan Machine Learning
 
 ## 📌 Deskripsi Proyek
